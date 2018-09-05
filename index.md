@@ -1,7 +1,7 @@
 #Sam Sieloff first CS 193 lab
-1. Only meets once a week
-2. is after lunch
-3. Works on CS
+- Only meets once a week
+- is after lunch
+- Works on CS
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
