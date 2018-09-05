@@ -1,4 +1,5 @@
-#Sam Sieloff first CS 193 lab
+## Welcome to GitHub Pages
+# Sam Sieloff first CS 193 lab
 - Only meets once a week
 - is after lunch
 - Works on CS
